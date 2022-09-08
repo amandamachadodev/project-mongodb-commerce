@@ -1,1 +1,1 @@
-'iniciando projeto'
+db.produtos.countDocuments({});
